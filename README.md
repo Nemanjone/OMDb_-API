@@ -2,7 +2,6 @@
 ## -OMDb_-API_analyzer-
 
 ### Description
-<<<<<<< HEAD
 
 Python program that enables users to get information about movies from OMDb API and filter these movies based on input parameters. The output is a file with all available movies data and database that stores already downloaded info.
 
